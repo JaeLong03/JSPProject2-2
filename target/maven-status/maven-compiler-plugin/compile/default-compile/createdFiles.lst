@@ -1,0 +1,4 @@
+org/example/project22/bean/BookVO.class
+org/example/project22/HelloServlet.class
+org/example/project22/dao/BookDAO.class
+org/example/project22/common/JDBCUtil.class
